@@ -1,0 +1,86 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "Javier Álvarez",
+      "email": "javier@javier.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "00001",
+      "name":"Nike Air Max Flyknit Racer Next Nature",
+      "size":"41, 42, 44, 45",
+      "price":"95,97€",
+      "color":"Elemental Gold/Gold Suede/Negro/Hyper Royal",
+      "type": "Zapatillas-Hombre",
+      "description": "Para rendir homenaje a la tradición y a la innovación, hemos combinado dos iconos (antiguos y nuevos) para ir más allá de lo esperado en las Nike Air Max Flyknit Racer. El tejido Flyknit es increíblemente ligero y elástico para combinarse con una amortiguación muy suave. Átate las zapatillas y deja que tus pies hablen por ti."
+    },
+    {
+      "id": "00002",
+      "name":"Jordan Series Mid",
+      "size":"41",
+      "price":"99,99€",
+      "color":"Obsidian/Sail/Sail",
+      "type": "Zapatillas-Hombre",
+      "description": "Lo clásico se combina con lo innovador en esta nueva versión del básico de la marca Jordan. La piel y el ante duraderos están reforzados con materiales sintéticos ligeros para ofrecer una mayor sujeción. El icónico diseño de perfil medio es más transpirable que nunca gracias a la plantilla perforada. Además, el diseño incorpora mensajes inspiradores basados en los orígenes de MJ para dar significado a cada una de tus pisadas."
+    },
+    {
+      "id": "00003",
+      "name":"Nike Structure 24",
+      "size":"41",
+      "price":"90,97€",
+      "color":"Negro/Ashen Slate/Cobalt Bliss/Blanco",
+      "type": "Zapatillas de running para asfalto - Hombre",
+      "description": "Las Nike Structure 24 te preparan para salir al asfalto. Hemos usado datos de pruebas a cientos de runners para diseñar la almohadilla articulada debajo del talón que crea una transición suave y amortiguada hasta la puntera. Además, estos datos nos han ayudado a crear una parte superior ventilada con transpirabilidad justo donde más la necesitas."
+    },
+    {
+      "id": "00004",
+      "name":"Nike Flex Experience Run 11 Next Nature",
+      "size":"41",
+      "price":"48,97€",
+      "color":"Aviator Grey/Plata metalizado/Negro",
+      "type": "Zapatillas de running para asfalto - Hombre",
+      "description": "Cómodas y llenas de ambiente zen, como deberían ser tus sesiones de running. En las Nike Flex Experience Run 11 Next Nature, hemos creado un diseño ligero y sencillo que ofrece una sensación y un look excelentes. Las zapatillas ofrecen una gran sujeción donde más la necesitas y te permite moverte libremente."
+    },
+    {
+      "id": "00005",
+      "name":"Nike Pegasus Turbo Next Nature",
+      "size":"35",
+      "price":"159,99€",
+      "color":"Negro/Off Noir/Sesame/Sail",
+      "type": "Zapatillas de running para asfalto - Mujer",
+      "description": "Deja que las Nike Pegasus Turbo Next Nature te ayuden a completar los kilómetros más duros. Confeccionadas con, al menos, un 50 % de contenido reciclado por peso total del producto, este codiciado modelo ofrece elasticidad y la sensación perfecta. Con una espuma más ligera y reactiva, esta prenda se ha diseñado para aumentar el ritmo sin sacrificar la comodidad mientras alcanzas tu mejor marca personal."
+    },
+    {
+      "id": "00006",
+      "name":"Nike Revolution 6 Next Nature",
+      "size":"35",
+      "price":"64,99€",
+      "color":"Sanddrift/Topaz Gold/Indigo Haze/Blanco",
+      "type": "Zapatillas de running para asfalto - Mujer",
+      "description": "Confeccionados con, al menos, un 20 % de material reciclado por peso, los materiales antiguos de este diseño empiezan una nueva vida.Ahora tú también puedes.Empieza con buen pie en el running con la suavidad de las Nike Revolution 6 Next Nature.Sabemos que la comodidad es clave para correr bien, y con estas zapatillas disfrutarás de una pisada suave gracias a su amortiguación y flexibilidad.Este diseño transpirable es una evolución de uno de los modelos más populares."
+    },
+    {
+      "id": "00007",
+      "name":"Nike Tanjun",
+      "size":"35",
+      "price":"44,97€",
+      "color":"Wolf Grey/Barely Volt/Negro/Blanco",
+      "type": "Zapatillas - Mujer",
+      "description": "No exageramos. Las Nike Tanjun ofrecen la máxima simplicidad. Confeccionadas con, al menos, un 20 % de contenido reciclado y cordones confeccionados al 100 % con poliéster reciclado, estas zapatillas no pasan ningún detalle por alto. Ligereza. Ventilación. Comodidad. Son más que palabras. Estas zapatillas son todo lo que necesitas."
+    },
+    {
+      "id": "00008",
+      "name":"Nike Air Max Flyknit Racer",
+      "size":"35",
+      "price":"71,97€",
+      "color":"Sesame/Ocean Cube/Pink Oxford/Negro",
+      "type": "Zapatillas - Mujer",
+      "description": "No te olvides de tu herencia. Nunca. Para rendir homenaje a la tradición y a la innovación, hemos combinado dos iconos para ir más allá de lo esperado. El tejido Flyknit ligero y ventilado con una sutil combinación de colores combina a la perfección la amortiguación Air Max y la tracción resistente. Descubre la comodidad al atártelas."
+    }
+
+
+    
+  ]
+}
