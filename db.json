@@ -1,19 +1,19 @@
 {
-  "registeredUsers":[
+  "registeredUsers": [
     {
-      "id":1,
-      "email":"test1@test.com",
-      "userName":"test1"
+      "id": 1,
+      "email": "test1@test.com",
+      "userName": "test1"
     },
     {
-      "id":2,
-      "email":"test2@test.com",
-      "userName":"test2"
+      "id": 2,
+      "email": "test2@test.com",
+      "userName": "test2"
     },
     {
-      "id":3,
-      "email":"test3@test.com",
-      "userName":"test3"
+      "id": 3,
+      "email": "test3@test.com",
+      "userName": "test3"
     }
   ],
   "users": [
@@ -29,7 +29,7 @@
       "id": "00002",
       "name": "Jordan Series Mid",
       "size": "41, 42, 44, 45",
-      "price": "99,99",
+      "price": 110,
       "color": "Obsidian/Sail/Sail",
       "type": "Zapatillas-Hombre",
       "description": "Lo clásico se combina con lo innovador en esta nueva versión del básico de la marca Jordan. La piel y el ante duraderos están reforzados con materiales sintéticos ligeros para ofrecer una mayor sujeción. El icónico diseño de perfil medio es más transpirable que nunca gracias a la plantilla perforada. Además, el diseño incorpora mensajes inspiradores basados en los orígenes de MJ para dar significado a cada una de tus pisadas."
@@ -109,16 +109,6 @@
       "id": "mekSNeh"
     },
     {
-      "name": "Nike SuperRep Go 3 Next Nature Flyknit",
-      "size": "45,45,47",
-      "price": 109.99,
-      "color": "Negro/Negro/Dark Smoke Grey",
-      "type": "Zapatillas para el gimnasio hombre",
-      "description": "Las nuevas zapatillas Nike SuperRep Go 3 Flyknit son una historia de diseño radical, basado en la sostenibilidad y la innovación. El diseño Flyknit por zonas envuelve el pie con 360 grados de comodidad y sujeción. La mediasuela de espuma recuperada, que se ha molido muy fina, ofrece una amortiguación reactiva para los entrenamientos de alto impacto. El diseño ligero y plegable te permite tenerlas siempre a mano, sea cual sea tu próximo entrenamiento.",
-      "alt_img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c81f6c3a-40f9-4ece-89fb-fe42ea9b372f/superrep-go-3-next-nature-flyknit-zapatillas-de-entrenamiento-MKC6Qs.png",
-      "id": "y6iyHQv"
-    },
-    {
       "name": "Nike x G-Dragon",
       "size": "S,M,L",
       "price": 349.99,
@@ -127,6 +117,16 @@
       "description": "¿Hay algo que G-Dragon no sepa hacer? Como superestrella del K-pop y director creativo de su propia marca, Peaceminusone, sabe cómo maximizar su potencial, y así lo ha hecho en esta colección. Inspirándose en el estilo de vida \"Freedom in Flow\" y en el taekwondo, deporte tradicional coreano, G-Dragon da su toque personal a unos looks increíbles.",
       "alt_img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/16343304-044c-494f-96e6-658451399d84/g-dragon-chaqueta-2-en-1.png",
       "id": "BHJciN7"
+    },
+    {
+      "name": "Nike Sportswear Tech Fleece Windrunner",
+      "size": "XS, S, M, L XL, XXL",
+      "price": 103.97,
+      "color": "Black",
+      "type": "Sudadera con capucha con cremallera completa - Hombre",
+      "description": "Con una combinación de dos de nuestros looks más icónicos, esta sudadera con capucha y cremallera completa está inspirada en nuestra atemporal chaqueta Windrunner y en la chaqueta Tech Fleece. Diseño holgado en los hombros, el pecho y el cuerpo para ofrecer un ajuste deportivo que puedes combinar con otras prendas. Nuestro tejido Fleece premium tiene un tacto agradable en ambos lados y ofrece más suavidad y calidez que nunca, además de una confección ligera.",
+      "alt_img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0694e6a7-099c-401b-8a12-b4c2fd206cc8/sportswear-tech-fleece-windrunner-sudadera-con-capucha-con-cremallera-completa-gsvHWq.png",
+      "id": "mTzB7Y-"
     }
   ]
 }
